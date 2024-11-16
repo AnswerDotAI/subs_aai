@@ -1,0 +1,96 @@
+[submodule "fastlite"]
+	path = fastlite
+	url = git@github.com:answerdotai/fastlite.git
+	branch = main
+[submodule "aimagic"]
+	path = aimagic
+	url = git@github.com:answerdotai/aimagic.git
+	branch = main
+[submodule "fa6-icons"]
+	path = fa6-icons
+	url = git@github.com:answerdotai/fa6-icons.git
+	branch = main
+[submodule "playwrightnb"]
+	path = playwrightnb
+	url = git@github.com:answerdotai/playwrightnb.git
+	branch = main
+[submodule "plash"]
+	path = plash
+	url = git@github.com:answerdotai/plash.git
+	branch = main
+[submodule "solve-lp"]
+	path = solve-lp
+	url = git@github.com:answerdotai/solve-lp.git
+	branch = main
+[submodule "claudette"]
+	path = claudette
+	url = git@github.com:answerdotai/claudette.git
+	branch = main
+[submodule "toolslm"]
+	path = toolslm
+	url = git@github.com:answerdotai/toolslm.git
+	branch = main
+[submodule "msglm"]
+	path = msglm
+	url = git@github.com:answerdotai/msglm.git
+	branch = main
+[submodule "fastsql"]
+	path = fastsql
+	url = git@github.com:answerdotai/fastsql.git
+	branch = main
+[submodule "execnb"]
+	path = execnb
+	url = git@github.com:fastai/execnb.git
+	branch = main
+[submodule "gaspard"]
+	path = gaspard
+	url = git@github.com:answerdotai/gaspard.git
+	branch = main
+[submodule "fasthtml"]
+	path = fasthtml
+	url = git@github.com:answerdotai/fasthtml.git
+	branch = main
+[submodule "nbdev"]
+	path = nbdev
+	url = git@github.com:fastai/nbdev.git
+	branch = main
+[submodule "fastai"]
+	path = fastai
+	url = git@github.com:fastai/fastai.git
+	branch = main
+[submodule "answerdotai"]
+	path = answerdotai
+	url = git@github.com:answerdotai/answerdotai.git
+	branch = main
+[submodule "ContextKit"]
+	path = ContextKit
+	url = git@github.com:answerdotai/ContextKit.git
+	branch = main
+[submodule "cosette"]
+	path = cosette
+	url = git@github.com:answerdotai/cosette.git
+	branch = main
+[submodule "fasthtml-example"]
+	path = fasthtml-example
+	url = git@github.com:answerdotai/fasthtml-example.git
+	branch = main
+[submodule "pysymbol-llm"]
+	path = pysymbol-llm
+	url = git@github.com:answerdotai/pysymbol-llm.git
+	branch = main
+[submodule "solveit"]
+	path = solveit
+	url = git@github.com:answerdotai/solveit.git
+	branch = main
+[submodule "sqlite-minutils"]
+	path = sqlite-minutils
+	url = git@github.com:answerdotai/sqlite-minutils.git
+	branch = main
+[submodule "fastcore"]
+	path = fastcore
+	url = git@github.com:fastai/fastcore.git
+	branch = main
+[submodule "ghapi"]
+	path = ghapi
+	url = git@github.com:fastai/ghapi.git
+	branch = main
