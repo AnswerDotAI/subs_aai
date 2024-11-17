@@ -94,3 +94,7 @@
 	path = ghapi
 	url = git@github.com:fastai/ghapi.git
 	branch = main
+[submodule "fh-frankenui"]
+	path = fh-frankenui
+	url = git@github.com:AnswerDotAI/fh-frankenui.git
+	branch = main
