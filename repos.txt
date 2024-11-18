@@ -4,6 +4,7 @@ AnswerDotAI/aimagic
 AnswerDotAI/claudette
 AnswerDotAI/cosette
 AnswerDotAI/fa6-icons
+AnswerDotAI/fastcaddy
 AnswerDotAI/fasthtml
 AnswerDotAI/fasthtml-example
 AnswerDotAI/fastlite

@@ -98,3 +98,7 @@
 	path = fh-frankenui
 	url = git@github.com:AnswerDotAI/fh-frankenui.git
 	branch = main
+[submodule "fastcaddy"]
+	path = fastcaddy
+	url = git@github.com:AnswerDotAI/fastcaddy.git
+	branch = main
