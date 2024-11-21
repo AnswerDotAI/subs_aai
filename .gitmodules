@@ -40,7 +40,7 @@
 	branch = main
 [submodule "execnb"]
 	path = execnb
-	url = git@github.com:fastai/execnb.git
+	url = git@github.com:AnswerDotAI/execnb.git
 	branch = main
 [submodule "gaspard"]
 	path = gaspard
@@ -52,7 +52,7 @@
 	branch = main
 [submodule "nbdev"]
 	path = nbdev
-	url = git@github.com:fastai/nbdev.git
+	url = git@github.com:AnswerDotAI/nbdev.git
 	branch = main
 [submodule "fastai"]
 	path = fastai
@@ -88,11 +88,11 @@
 	branch = main
 [submodule "fastcore"]
 	path = fastcore
-	url = git@github.com:fastai/fastcore.git
+	url = git@github.com:AnswerDotAI/fastcore.git
 	branch = main
 [submodule "ghapi"]
 	path = ghapi
-	url = git@github.com:fastai/ghapi.git
+	url = git@github.com:AnswerDotAI/ghapi.git
 	branch = main
 [submodule "fh-frankenui"]
 	path = fh-frankenui
@@ -102,3 +102,6 @@
 	path = fastcaddy
 	url = git@github.com:AnswerDotAI/fastcaddy.git
 	branch = main
+[submodule "minai"]
+	path = minai
+	url = git@github.com:AnswerDotAI/minai.git
