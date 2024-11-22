@@ -105,3 +105,6 @@
 [submodule "minai"]
 	path = minai
 	url = git@github.com:AnswerDotAI/minai.git
+[submodule "fh-bootstrap"]
+	path = fh-bootstrap
+	url = git@github.com:AnswerDotAI/fh-bootstrap.git
