@@ -15,5 +15,6 @@ aimagic
 ContextKit
 fa6-icons
 fasthtml
+fh-frankenui
 fastcaddy
 solveit
