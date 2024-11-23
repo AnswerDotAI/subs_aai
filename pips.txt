@@ -18,3 +18,4 @@ fasthtml
 fh-frankenui
 fastcaddy
 solveit
+autobackup
