@@ -108,3 +108,6 @@
 [submodule "fh-bootstrap"]
 	path = fh-bootstrap
 	url = git@github.com:AnswerDotAI/fh-bootstrap.git
+[submodule "vertexauth"]
+	path = vertexauth
+	url = git@github.com:AnswerDotAI/vertexauth.git
