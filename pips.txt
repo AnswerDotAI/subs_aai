@@ -11,6 +11,7 @@ fastsql
 claudette
 cosette
 gaspard
+vertexauth
 aimagic
 ContextKit
 fa6-icons
