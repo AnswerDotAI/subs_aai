@@ -111,3 +111,6 @@
 [submodule "autobackup"]
 	path = autobackup
 	url = git@github.com:AnswerDotAI/autobackup.git
+[submodule "vertexauth"]
+        path = vertexauth
+        url = git@github.com:AnswerDotAI/vertexauth.git
