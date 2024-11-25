@@ -111,3 +111,6 @@
 [submodule "vertexauth"]
 	path = vertexauth
 	url = git@github.com:AnswerDotAI/vertexauth.git
+[submodule "nb2fasthtml"]
+	path = nb2fasthtml
+	url = git@github.com:AnswerDotAI/nb2fasthtml.git
