@@ -58,10 +58,6 @@
 	path = fastai
 	url = git@github.com:fastai/fastai.git
 	branch = main
-[submodule "answerdotai"]
-	path = answerdotai
-	url = git@github.com:AnswerDotAI/answerdotai.git
-	branch = main
 [submodule "ContextKit"]
 	path = ContextKit
 	url = git@github.com:AnswerDotAI/ContextKit.git
