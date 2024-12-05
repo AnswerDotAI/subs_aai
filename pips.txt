@@ -18,3 +18,4 @@ fa6-icons
 fasthtml
 fastcaddy
 solveit
+fastai
