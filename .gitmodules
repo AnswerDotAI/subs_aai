@@ -114,3 +114,6 @@
 [submodule "nb2fasthtml"]
 	path = nb2fasthtml
 	url = git@github.com:AnswerDotAI/nb2fasthtml.git
+[submodule "apswutils"]
+	path = apswutils
+	url = git@github.com:AnswerDotAI/apswutils.git
