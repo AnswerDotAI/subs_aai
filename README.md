@@ -1,6 +1,14 @@
 # subs_aai
 All the main Answer.AI repos of interest
 
+## Syncing Repos
+
+The first time you clone this, you'll want to sync all git submodules with:
+
+```sh
+./sync.sh
+```
+
 ## Updating Repos
 
 To update all the repos in this repository, you can run the following command:
@@ -16,7 +24,7 @@ then for each submodule update anyones that have changed.
 ## Install Repos
 
 If you want to pip install all of the repositories you can run the following
-commad:
+command:
 
 ```sh
 ./install.sh
