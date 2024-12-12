@@ -113,3 +113,9 @@
 [submodule "vertexauth"]
         path = vertexauth
         url = git@github.com:AnswerDotAI/vertexauth.git
+[submodule "answerdotai"]
+    path = answerdotai
+    url = git@github.com:AnswerDotAI/answerdotai.git
+[submodule "playwrightnb"]
+    path = playwrightnb
+    url = git@github.com:AnswerDotAI/playwrightnb.git
